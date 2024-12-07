@@ -1,0 +1,3 @@
+[submodule "pruebas_sobre_gh"]
+	path = pruebas_sobre_gh
+	url = https://github.com/axdomeval/pruebas_sobre_gh.git
